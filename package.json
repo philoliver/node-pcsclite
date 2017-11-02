@@ -37,7 +37,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "node-loader": "^0.6.0",
+    "node-loader": "git://github.com/gch1p/node-loader.git#master",
     "nan": "^2.5.1"
   },
   "devDependencies": {
